@@ -1,5 +1,5 @@
-TITLE_1: SME0601
-TITLE_2: Cálculo Numérico II
+TITLE_1: SSC0643
+TITLE_2: Avaliação de Desempenho
 SUBTITLE_1: Disciplina de graduação
 SUBTITLE_2: Material de aula, notebooks e referências.
 
@@ -8,9 +8,9 @@ ABOUT: |
 
 REFERENCIAS: |
   <ul>
-    <li>Livro A …</li>
-    <li>Artigo B …</li>
+    <li>Livro AA …</li>
+    <li>Artigo BB …</li>
   </ul>
 
-GITHUB_LINK: https://github.com/Academic-Codex/SME0601-Calculo-Numerico-II
-HERO_FILE: calculo-numerico-ii.png
+GITHUB_LINK: https://github.com/Academic-Codex/SSC0643-Avaliacao-Desempenho
+HERO_FILE: avaliacao-de-desempenho.png
